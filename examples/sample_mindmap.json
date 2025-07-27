@@ -1,0 +1,120 @@
+{
+  "title": "Artificial Intelligence Overview",
+  "content": "A comprehensive overview of artificial intelligence, its branches, applications, and future prospects.",
+  "children": [
+    {
+      "title": "Machine Learning",
+      "content": "Algorithms that enable computers to learn and improve from experience without being explicitly programmed.",
+      "children": [
+        {
+          "title": "Supervised Learning",
+          "content": "Learning with labeled training data to make predictions on new data.",
+          "children": [
+            {
+              "title": "Classification",
+              "content": "Predicting discrete categories or classes."
+            },
+            {
+              "title": "Regression",
+              "content": "Predicting continuous numerical values."
+            }
+          ]
+        },
+        {
+          "title": "Unsupervised Learning",
+          "content": "Finding patterns in data without labeled examples.",
+          "children": [
+            {
+              "title": "Clustering",
+              "content": "Grouping similar data points together."
+            },
+            {
+              "title": "Dimensionality Reduction",
+              "content": "Reducing the number of features while preserving important information."
+            }
+          ]
+        },
+        {
+          "title": "Reinforcement Learning",
+          "content": "Learning through interaction with an environment using rewards and penalties."
+        }
+      ]
+    },
+    {
+      "title": "Deep Learning",
+      "content": "Neural networks with multiple layers that can learn complex patterns.",
+      "children": [
+        {
+          "title": "Convolutional Neural Networks (CNNs)",
+          "content": "Specialized for processing grid-like data such as images."
+        },
+        {
+          "title": "Recurrent Neural Networks (RNNs)",
+          "content": "Designed for sequential data like time series or natural language."
+        },
+        {
+          "title": "Transformers",
+          "content": "Architecture using attention mechanisms, revolutionizing NLP and beyond."
+        }
+      ]
+    },
+    {
+      "title": "Natural Language Processing",
+      "content": "Enabling computers to understand, interpret, and generate human language.",
+      "children": [
+        {
+          "title": "Text Analysis",
+          "content": "Extracting insights and meaning from textual data."
+        },
+        {
+          "title": "Language Generation",
+          "content": "Creating human-like text automatically."
+        },
+        {
+          "title": "Machine Translation",
+          "content": "Automatically translating text from one language to another."
+        }
+      ]
+    },
+    {
+      "title": "Computer Vision",
+      "content": "Teaching computers to interpret and understand visual information.",
+      "children": [
+        {
+          "title": "Image Recognition",
+          "content": "Identifying objects, people, or scenes in images."
+        },
+        {
+          "title": "Object Detection",
+          "content": "Locating and classifying multiple objects within images."
+        },
+        {
+          "title": "Image Segmentation",
+          "content": "Dividing images into meaningful segments or regions."
+        }
+      ]
+    },
+    {
+      "title": "Applications",
+      "content": "Real-world uses of AI across various industries and domains.",
+      "children": [
+        {
+          "title": "Healthcare",
+          "content": "Diagnosis, drug discovery, personalized treatment, medical imaging."
+        },
+        {
+          "title": "Finance",
+          "content": "Fraud detection, algorithmic trading, risk assessment, robo-advisors."
+        },
+        {
+          "title": "Transportation",
+          "content": "Autonomous vehicles, traffic optimization, predictive maintenance."
+        },
+        {
+          "title": "Entertainment",
+          "content": "Recommendation systems, content creation, game AI, personalization."
+        }
+      ]
+    }
+  ]
+}

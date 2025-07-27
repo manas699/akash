@@ -1,0 +1,93 @@
+# Web Development Fundamentals
+
+## Frontend Development
+
+## HTML (HyperText Markup Language)
+
+## Semantic Elements
+
+## Forms and Input Types
+
+## Accessibility Features
+
+## CSS (Cascading Style Sheets)
+
+## Selectors and Specificity
+
+## Flexbox and Grid
+
+## Responsive Design
+
+## Animations and Transitions
+
+## JavaScript
+
+## DOM Manipulation
+
+## Event Handling
+
+## Asynchronous Programming
+
+## Modern ES6+ Features
+
+## Backend Development
+
+## Server-side Languages
+
+## Node.js
+
+## Python (Django/Flask)
+
+## Java (Spring)
+
+## PHP
+
+## Databases
+
+## Relational (SQL)
+
+## MySQL
+
+## PostgreSQL
+
+## NoSQL
+
+## MongoDB
+
+## Redis
+
+## APIs and Web Services
+
+## REST APIs
+
+## GraphQL
+
+## Authentication & Authorization
+
+## DevOps and Deployment
+
+## Version Control
+
+## Git and GitHub
+
+## Branching Strategies
+
+## Containerization
+
+## Docker
+
+## Kubernetes
+
+## Cloud Platforms
+
+## AWS
+
+## Google Cloud
+
+## Azure
+
+## CI/CD Pipelines
+
+## Automated Testing
+
+## Deployment Automation
