@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mindmap>
+  <root title="Project Management Methodology" content="A structured approach to planning, executing, and closing projects successfully.">
+    <node title="Planning Phase" content="The initial phase where project scope, objectives, and resources are defined.">
+      <child title="Scope Definition" content="Clearly defining what is included and excluded from the project." />
+      <child title="Resource Allocation" content="Identifying and assigning necessary human and material resources." />
+      <child title="Timeline Creation" content="Developing a realistic schedule with milestones and deadlines." />
+      <child title="Risk Assessment" content="Identifying potential risks and developing mitigation strategies." />
+    </node>
+    
+    <node title="Execution Phase" content="The phase where project work is performed according to the plan.">
+      <child title="Task Management" content="Coordinating and monitoring individual tasks and activities.">
+        <child title="Daily Standups" content="Brief team meetings to sync on progress and blockers." />
+        <child title="Progress Tracking" content="Monitoring task completion and timeline adherence." />
+      </child>
+      <child title="Quality Control" content="Ensuring deliverables meet specified standards and requirements." />
+      <child title="Communication Management" content="Maintaining clear communication channels with stakeholders." />
+    </node>
+    
+    <node title="Monitoring & Control" content="Continuous oversight to ensure project stays on track.">
+      <child title="Performance Metrics" content="Key indicators to measure project health and progress." />
+      <child title="Change Management" content="Process for handling scope changes and modifications." />
+      <child title="Issue Resolution" content="Systematic approach to identifying and resolving problems." />
+    </node>
+    
+    <node title="Closure Phase" content="Formal completion of project activities and handover.">
+      <child title="Deliverable Handover" content="Transfer of completed work products to stakeholders." />
+      <child title="Documentation" content="Completion of project documentation and lessons learned." />
+      <child title="Team Release" content="Formal release of project team members to other assignments." />
+      <child title="Post-Project Review" content="Evaluation of project success and areas for improvement." />
+    </node>
+  </root>
+</mindmap>
